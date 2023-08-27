@@ -1,0 +1,32 @@
+
+VertexlitGeneric
+{
+
+	$basetexture models/jessev92/bf3/weapons/m320/m320_d
+	$bumpmap models/jessev92/bf3/weapons/m320/m320_b
+	$lightwarptexture dev/identitylightwarp
+	
+	$halflambert 1
+
+	$ambientocclusion 1
+	$ambientocclcolor "[ 150 150 150 ]"
+	$ambientoccltexture models/jessev92/bf3/weapons/m320/m320_ao
+	$ambientocclusiontexture models/jessev92/bf3/weapons/m320/m320_ao
+
+	$phong 1
+	$phongexponent 23
+	$phongexponenttexture models/jessev92/bf3/weapons/m320/m320_x
+	$phongboost 2.2
+	$phongfresnelranges "[ 1 8 4 ]"
+	$phongtint "[ 0.035 0.033 0.05 ]"
+
+	$rimlight 1
+	$rimlightexponent 28
+	$rimlightboost 0.2
+
+	$detail models/jessev92/bf3/weapons/m320/m320_dt
+	$detailscale 1
+	$detailblendmode 4
+	$detailblendfactor 0.95
+	
+}

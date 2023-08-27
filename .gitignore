@@ -1,0 +1,10 @@
+*.log
+*.prt
+*.tmp
+*.xbox
+*.mdmp
+*.cache
+*.ini
+*.db
+*.json
+*.json

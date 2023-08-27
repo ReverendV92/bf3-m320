@@ -1,0 +1,5 @@
+M320 LVG Animations
+-------------------
+Credits:
+Inter - Animations
+SentryGunMan - Compile (Worldmodels, Sound Scripts, Viewmodel)

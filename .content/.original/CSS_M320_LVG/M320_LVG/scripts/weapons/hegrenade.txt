@@ -1,0 +1,21 @@
+"Weapon_M320.Fire"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"1"
+	"pitch"		"90,100"
+	"wave"		")weapons\m320\m320-1.wav"
+}
+"Weapon_M320.Draw"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.8"
+	"pitch"		"90,105"
+	"wave"		")weapons\m320\m320_draw.wav"
+}
+"Weapon_M320.Aim"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.8"
+	"pitch"		"90,105"
+	"wave"		")weapons\m320\m320_aim.wav"
+}
